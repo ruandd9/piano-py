@@ -33,6 +33,9 @@ var/
 exports/
 gravacoes/
 
+# Website
+website/
+
 # Windows
 Thumbs.db
 Desktop.ini

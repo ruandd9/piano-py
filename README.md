@@ -134,6 +134,3 @@ Contribuições são bem-vindas! Algumas ideias:
 - Código modular e bem documentado
 - Design responsivo e intuitivo
 
-## ⚖️ Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.

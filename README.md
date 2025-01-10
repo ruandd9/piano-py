@@ -4,7 +4,7 @@ Um piano virtual interativo desenvolvido em Python, com recursos avançados de a
 
 ## 📋 Descrição
 
-Este projeto implementa um piano virtual com interface gráfica usando Tkinter. Ele oferece uma experiência musical completa, permitindo tocar notas, aprender melodias, gravar performances e exportar áudio.
+Este projeto implementa um piano virtual com interface gráfica usando Tkinter. uma experiência musical completa permitindo tocar notas, aprender melodias, gravar performances e exportar áudio.
 
 ## ✨ Funcionalidades
 
